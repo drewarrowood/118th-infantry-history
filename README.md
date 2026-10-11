@@ -1,2 +1,11 @@
-# 118th-infantry-history
-Readable text and research materials from the 1919 History of the 118th Infantry (A.E.F.) by Lt. Sam J. Royall, plus related citations and notes on Brancourt, Company E, and Private Robert L. Dorton.
+# 118th Infantry History
+
+Readable text and research materials related to the **118th Infantry Regiment**, 30th Division (“Old Hickory”), American Expeditionary Forces in World War I.
+
+Primary source:
+
+- *History of the 118th Infantry, American Expeditionary Force, France* by Lt. Sam J. Royall (regimental historian), 1919. Public domain. Original scan available on [Internet Archive](https://archive.org/details/historyof118thin00roya).
+
+Related materials include notes on the capture of Brancourt-le-Grand (8 October 1918), Company E actions, Private Robert L. Dorton’s Silver Star citation, and the Medal of Honor recipients from the regiment that day (Dozier, Foster, Hall).
+
+See `notes/` for structured research summaries.
